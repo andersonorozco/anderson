@@ -1,0 +1,23 @@
+<html>
+<head><title>CAJA CSS</title>
+<meta charset="SO-88-59-1">
+<meta name="keywords"content="html, css"/>
+<link rel="shortcut icon" type="estaes/png" href="../estaes.png" />
+</head>
+<style>
+.div header {
+  width: 300px;
+  padding: 25px 25px 25px 25px;
+  margin: 300px 200px 200px 400px;
+  border: 10px solid black;
+  background: #CCF;
+}
+</style>
+<body>
+
+<div id="pagina">
+<header id="header">CRISTIAN CAMILO MARIŃO BUITRON</header>
+</div>
+
+</body>
+</html>
